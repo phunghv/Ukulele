@@ -1,14 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Specifies intentionally untracked files to ignore when using Git
 # http://git-scm.com/docs/gitignore
-
+.bowerrc
 node_modules/
 platforms/
 plugins/
-=======
-=======
->>>>>>> 39815ccdbffe2095cacd9c28b387806a8e5edd46
 # Built application files
 *.apk
 *.ap_
@@ -36,7 +31,4 @@ proguard/
 
 # Log Files
 *.log
-<<<<<<< HEAD
->>>>>>> 39815ccdbffe2095cacd9c28b387806a8e5edd46
-=======
->>>>>>> 39815ccdbffe2095cacd9c28b387806a8e5edd46
+39815ccdbffe2095cacd9c28b387806a8e5edd46
